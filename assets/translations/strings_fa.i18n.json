@@ -15,7 +15,8 @@
         "notSet": "تنظیم نشده",
         "agree": "موافقم",
         "decline": "رد",
-        "unknown": "ناشناخته"
+        "unknown": "ناشناخته",
+        "hidden": "مخفی"
     },
     "intro": {
         "termsAndPolicyCaution(rich)": "در صورت ادامه با ${tap(@:about.termsAndConditions)} موافقت میکنید",
@@ -54,6 +55,8 @@
             "remainingTrafficSemanticLabel": "${consumed} از ${total} ترافیک مصرف شده",
             "expired": "منقضی شده",
             "noTraffic": "پایان ترافیک",
+            "upload": "بارگذاری",
+            "total": "مجموع",
             "expireDate": "تاریخ انقضا"
         },
         "sortBy": {
