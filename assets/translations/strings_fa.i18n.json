@@ -53,7 +53,8 @@
             "remainingDuration": "${duration} روز باقی مانده",
             "remainingTrafficSemanticLabel": "${consumed} از ${total} ترافیک مصرف شده",
             "expired": "منقضی شده",
-            "noTraffic": "پایان ترافیک"
+            "noTraffic": "پایان ترافیک",
+            "expireDate": "تاریخ انقضا"
         },
         "sortBy": {
             "lastUpdate": "اخیرا بروز شده",
@@ -126,6 +127,16 @@
             "unsorted": "پیش‌فرض",
             "name": "براساس نام",
             "delay": "براساس تاخیر"
+        },
+        "delaySemantics": {
+            "result": "نتیجه"
+        },
+        "ipInfoSemantics": {
+            "address": "نشانی",
+            "country": "کشور"
+        },
+        "statsSemantics": {
+            "speed": "سرعت"
         }
     },
     "logs": {
